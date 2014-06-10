@@ -5,7 +5,7 @@ from apiclient.errors import HttpError
 from oauth2client.tools import argparser
 
 
-DEVELOPER_KEY = "AIzaSyAh1p5v95C7irfnvgImwU_Eg3FiwnGm0V8"
+DEVELOPER_KEY = "<insert-developer-key-here>"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
